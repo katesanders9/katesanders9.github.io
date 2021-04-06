@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Matl"
+title                    : "Kate Sanders"
 title_separator          : "-"
-name                     : &name "Matthew Matl"
-description              : &description "personal description"
-url                      : "https://mmatl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kate Sanders"
+description              : &description "Incoming PhD Student in Machine Learning"
+url                      : "https://katesanders9.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mmatl/mmatl.github.io"
+repository               : "katesanders9/katesanders9.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -27,7 +27,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dark
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew Matl"
-  avatar           : "photo.png"
-  bio              : "PhD Researcher in Robotic Manipulation @ UC Berkeley"
+  name             : "Kate Sanders"
+  avatar           : 
+  bio              : "Incoming PhD Student in Machine Learning"
   location         : "Berkeley, CA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=5lhsTYwAAAAJ&hl=en"
-  email            : "mmatl@eecs.berkeley.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=VJFrfM0AAAAJ&hl=en"
+  email            : "katesanders@berkeley.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,12 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mmatl"
+  github           : "katesanders9"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kate-sanders-395725146/"
   orcid            :
   pinterest        :
   soundcloud       :

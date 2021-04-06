@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Matthew Matl, and I'm a third-year PhD student in EECS at UC Berkeley.
-I am advised by Professor [Ken Goldberg](http://goldberg.berkeley.edu/) of the [UC Berkeley Autolab](http://autolab.berkeley.edu/), and
-my research primarily focuses on robotic manipulation.
-Specifically, I am interested in using fast simulation techniques and geometric models to teach robots to perform complex manipulation tasks in real-world environments, with an eye towards applications such as industrial bin-picking, logistics, and flexible manufacturing and assembly systems.
+My name is Kate, and I am an incoming machine learning PhD student at Johns Hopkins University. I will be co-advised by [Professor Ben Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/) of the [JHU Center for Language and Speech Processing](https://www.clsp.jhu.edu/). My primary research interest lies in knowledge acquisition through natural language processing and computer vision, or how machines can learn about the world through written text and images.
 
-I attended Princeton University for my undergraduate education, where I received a BSE in Electrical Engineering, and I am married to the lovely [Carolyn Matl](https://carolyncmatl.github.io), who is also a robotics researcher at UC Berkeley.
+
+I received a BA in Computer Science from UC Berkeley where I conducted AI and robotics research at the [UC Berkeley AUTOLab](http://autolab.berkeley.edu/) and was advised by [Professor Ken Goldberg](https://goldberg.berkeley.edu/).
