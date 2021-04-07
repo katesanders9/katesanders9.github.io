@@ -4,7 +4,7 @@ authors: 'Jingyi Song, Ajay Tanwani, Jeffrey Ichnowski, Michael Danielczuk, Kate
 venue: '2020 IEEE 16th International Conference on Automation Science and Engineering (CASE)'
 date: 2020-8-20
 category: 'published'
-pdf: '2017-segmentation.pdf'
+pdf: '2020-robust.pdf'
 teaser: '2020-robust.png'
 permalink: /publication/2020-robust
 collection: publications

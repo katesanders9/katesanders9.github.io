@@ -4,7 +4,7 @@ authors: 'Alison S Walker, Benjamin K Raliski, Dat Vinh Nguyen, Patrick Zhang, K
 venue: 'Frontiers Neuroscience'
 date: 2021-1-1
 category: 'accepted'
-pdf: '2019-mechsearch.pdf'
+pdf: '2020-imaging.pdf'
 teaser: '2020-imaging.png'
 permalink: /publication/2020-imaging
 collection: publications

@@ -4,7 +4,7 @@ authors: 'Kate Sanders, Michael Danielczuk, Jeffrey Mahler, Ajay Tanwani, Ken Go
 venue: '2020 IEEE 16th International Conference on Automation Science and Engineering (CASE)'
 date: 2020-8-20
 category: 'published'
-pdf: '2018-suction.pdf'
+pdf: '2020-nonmarkov.pdf'
 teaser: '2020-nonmarkov.png'
 permalink: /publication/2020-nonmarkov
 collection: publications

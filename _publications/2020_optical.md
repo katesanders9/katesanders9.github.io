@@ -4,7 +4,7 @@ authors: 'Alison S Walker, Benjamin K Raliski, Kaveh Karbasi, Patrick Zhang, Kat
 venue: 'Frontiers Neuroscience'
 date: 2021-1-1
 category: 'accepted'
-pdf: '2019-dexnet4.pdf'
+pdf: '2020-optical.pdf'
 teaser: '2021-optical.png'
 permalink: /publication/2020-optical
 collection: publications

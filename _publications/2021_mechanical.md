@@ -4,7 +4,7 @@ authors: 'Huang Huang, Marcus Dominguez-Kuhne, Vishal Satish, Michael Danielczuk
 venue: '2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 date: 2021-03-05
 category: 'under review'
-pdf: '2019-sdmaskrcnn.pdf'
+pdf: '2021-mechanical.pdf'
 teaser: '2021-mechanical.png'
 permalink: /publication/2021-mechanical
 collection: publications
