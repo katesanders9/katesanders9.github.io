@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kate Sanders"
 title_separator          : "-"
 name                     : &name "Kate Sanders"
-description              : &description "Incoming PhD Student in Machine Learning"
+description              : &description "PhD Student in Machine Learning"
 url                      : "https://katesanders9.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katesanders9/katesanders9.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Kate Sanders"
   avatar           : 
-  bio              : "Incoming PhD Student in Machine Learning"
-  location         : "Berkeley, CA"
+  bio              : "PhD Student in Machine Learning"
+  location         : "Baltimore, MD"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=VJFrfM0AAAAJ&hl=en"
   email            : "ksande25@jhu.edu"
