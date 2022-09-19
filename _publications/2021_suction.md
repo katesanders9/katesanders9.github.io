@@ -1,9 +1,9 @@
 ---
 title: 'A Multi-Chamber Smart Suction Cup for Adaptive Gripping and Haptic Exploration'
 authors: 'Tae Myung Huh, Kate Sanders, Michael Danielczuk, Monica Li, Ken Goldberg, Hannah S Stuart'
-venue: '2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
-date: 2021-05-05
-category: 'accepted'
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+date: 2021-09-27
+category: 'published'
 pdf: '2021-suction.pdf'
 teaser: '2021-suction.png'
 permalink: /publication/2021-suction

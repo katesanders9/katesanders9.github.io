@@ -11,12 +11,9 @@ redirect_from:
 
 Education
 ------
-* Current EECS Ph.D student in Robotics and Control, UC Berkeley, 2021 (expected)
-  * Winner of National Defense Science and Engineering Graduate Fellowship (NDSEG), 2017-2021
-* B.S.E in Electrical Engineering, Princeton University, 2016
-  * GPA: 3.97
-  * Minor in Computer Science
-  * Winner of the [James Hayes-Edgar Palmer Prize in Engineering](http://ee.princeton.edu/news/two-ee-seniors-receive-seas-undergraduate-awards-0)
+* Current CS Ph.D student, Johns Hopkins University, 2026 (expected)
+* B.A. in Computer Science, UC Berkeley, 2020
+  * GPA: 3.91
 
 Publications
 ------
@@ -30,13 +27,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Work Experience
+Volunteer Work
 ------
-* AppNexus (June - August 2015), _New York, NY_
-  * Real-Time Distributed Systems Engineer
+* AI4All Group Leader
+  * Taught deep learning basics to high school students with the aim of increasing diversity and inclusion in AI education, research, development, and policy.
+* Computer Science Peer Tutor
+  * Held one-on-one peer tutoring appointments for UC Berkeley computer science students
 
-* Brewster, Inc. (June - September 2014), _New York, NY_
-  * Web Engineer
-
-* Infosys (June - August 2013), _Bangalore, India_
-  * Cloud Dependability Research Intern
+Organizations
+------
+* Upsilon Pi Epsilon Honor Society, Nu Chapter (UPE)
+* UC Berkeley Computer Science Mentors (CSM)
