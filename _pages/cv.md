@@ -12,8 +12,9 @@ redirect_from:
 Education
 ------
 * Current CS Ph.D student, Johns Hopkins University, 2026 (expected)
+  * GPA: 4.0
 * B.A. in Computer Science, UC Berkeley, 2020
-  * GPA: 3.91
+  * GPA: 3.9
 
 Publications
 ------
@@ -27,11 +28,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Volunteer Work
+Service
 ------
-* AI4All Group Leader
+* Reviewing
+  * NeurIPS 2022, IROS 2021, CASE 2020 (secondary)
+* Volunteering (AI Summer Camp Leader, 2020)
   * Taught deep learning basics to high school students with the aim of increasing diversity and inclusion in AI education, research, development, and policy.
-* Computer Science Peer Tutor
+* Tutoring (2018)
   * Held one-on-one peer tutoring appointments for UC Berkeley computer science students
 
 Organizations

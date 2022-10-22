@@ -1,7 +1,7 @@
 ---
 title: 'Ambiguous Images With Human Judgments for Robust Visual Event Classification'
 authors: 'Kate Sanders, Reno Kriz, Anqi Liu, Benjamin Van Durme'
-venue: 'Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS 2022)'
+venue: 'Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks'
 date: 2022-11-26
 category: 'accepted'
 pdf: '2022-ambiguous.pdf'
