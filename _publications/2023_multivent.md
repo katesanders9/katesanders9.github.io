@@ -2,7 +2,7 @@
 title: 'MultiVENT: Multilingual Videos of Events with Aligned Natural Text'
 authors: 'Kate Sanders, David Etter, Reno Kriz, Benjamin Van Durme'
 venue: 'arXiv'
-date: 202307-06
+date: 2023-7-6
 category: 'preprint'
 pdf: '2023-multivent.pdf'
 teaser: '2023-multivent.png'
