@@ -1,8 +1,14 @@
----
+\documentclass[10pt]{article}
+\usepackage[usenames]{color} %used for font color
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+\begin{document}
+\begin{align*}---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
@@ -10,3 +16,5 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+\end{align*}
+\end{document}
