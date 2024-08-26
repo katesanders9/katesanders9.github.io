@@ -3,7 +3,7 @@ title: 'Ambiguous Images With Human Judgments for Robust Visual Event Classifica
 authors: 'Kate Sanders, Reno Kriz, Anqi Liu, Benjamin Van Durme'
 venue: 'Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks'
 date: 2022-11-26
-category: 'accepted'
+category: 'published'
 pdf: '2022-ambiguous.pdf'
 teaser: '2022-ambiguous.png'
 permalink: /publication/2022-ambiguous
