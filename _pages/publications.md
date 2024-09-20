@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-  This page includes a selection of my publications. You can find a full list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  This page includes a selection of my publications. You can find a full list on <u><a href="https://scholar.google.com/citations?user=VJFrfM0AAAAJ">my Google Scholar profile</a>.</u>
 
 {% if author.googlescholar %}
 
