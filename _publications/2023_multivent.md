@@ -1,7 +1,7 @@
 ---
 title: 'MultiVENT: Multilingual Videos of Events with Aligned Natural Text'
 authors: 'Kate Sanders, David Etter, Reno Kriz, Benjamin Van Durme'
-venue: 'NeurIPS 2023'
+venue: 'Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks'
 date: 2023-7-6
 category: 'published'
 pdf: '2023-multivent.pdf'

@@ -1,9 +1,9 @@
 ---
 title: 'TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning'
 authors: 'Kate Sanders, Nathaniel Weir, Benjamin Van Durme'
-venue: 'arXiv'
+venue: 'Conference on Empirical Methods in Natural Language Processing'
 date: 2024-2-29
-category: 'preprint'
+category: 'published
 pdf: '2024-trees.pdf'
 teaser: '2024-trees.png'
 permalink: /publication/2024-trees
