@@ -13,4 +13,4 @@ I am broadly interested in computer vision, natural language processing, and cog
 
 Before starting my Ph.D., I received my BA in Computer Science from UC Berkeley where I conducted AI and robotics research at the [UC Berkeley AUTOLab](http://autolab.berkeley.edu/) and was advised by [Professor Ken Goldberg](https://goldberg.berkeley.edu/).
 
-Site last updated 9/20/24
+Site last updated 9/24/24
